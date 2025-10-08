@@ -1,0 +1,26 @@
+.container{
+    background-color: aliceblue;
+    padding: 77px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 4%;
+    align-items: center;
+}
+.note{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+img{
+    width: 1290px;
+    border-radius: 4%;
+}
+p{
+    opacity: 0.6;
+    font-size: 4rem;
+}
+h2{
+    font-size: 7rem;
+}
